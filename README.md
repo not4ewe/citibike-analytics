@@ -22,3 +22,6 @@ The average trip duration across all users is 25 minutes.  With 75 year old wome
 
 ### Bike usage
 When looking at data regardingtrip duration by BikeID, it is can be challenging to interpret the data.  The top five BikeIDs by usage all have one rider that had the bike for an extended period of time, between 26 and 29 days.  The mechanical condition of those bikes may be differnet that a bike that has had multiple users over the same time period.  
+
+
+[Citi Bike Analytics - Tableau](https://public.tableau.com/profile/daniel.kennedy1597#!/vizhome/CitiBike_16023393592680/CitiBikeAnalytics?publish=yes)
