@@ -1,5 +1,5 @@
 # citibike-analytics
-    ![Tux, the Linux mascot](/assets/images/tux.png)
+![citibike logo](/citibikexlyft-logo-2.svg)
 ## City official visualization
 ### Top Starting Zipcodes are:
 - 10119 Garment District|Midtown|Midtown West|Manhattan -Madison Square Garden area
